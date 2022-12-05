@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tusharsial
-- 👀 I’m interested in Robotics, Intelligent Systems, Control Systems
+- 👀 I’m interested in the domains of Robotics, Intelligent Systems, & Control Systems. 
 
 Note: I've also attached my CV below
 
