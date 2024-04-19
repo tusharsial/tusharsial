@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tusharsial
-- 👀 I’m interested in the guidance, navigation, and control of Aerial and Space Robots. 
+- 👀 I’m interested in the guidance, navigation, and control of Aerial and Space vehicles. 
 
 
 
